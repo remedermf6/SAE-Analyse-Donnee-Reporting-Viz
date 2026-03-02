@@ -118,11 +118,11 @@ Ce projet vise à développer :
 
 ## 📈 Comparaison de Gares
 <p align="center">
-  <img src="image_2.png" width="800"/>
+  <img src="Image_2.png" width="800"/>
 </p>
 
 ---
 ## 🏙 Fréquence de Fréquentation
 <p align="center">
-  <img src="image_3.png" width="800"/>
+  <img src="Image_3.png" width="800"/>
 </p>
