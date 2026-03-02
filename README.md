@@ -107,3 +107,22 @@ Ce projet vise à développer :
 - La mise en œuvre d’un outil de Business Intelligence
 
 ---
+## 📊 Aperçu du Dashboard
+#### Vue générale :
+
+<p align="center">
+  <img src="image_1.png" width="800"/>
+</p>
+
+---
+
+## 📈 Comparaison de Gares
+<p align="center">
+  <img src="image_2.png" width="800"/>
+</p>
+
+---
+## 🏙 Fréquence de Fréquentation
+<p align="center">
+  <img src="image_3.png" width="800"/>
+</p>
